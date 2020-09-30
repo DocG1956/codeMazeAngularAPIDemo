@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { RepositoryService } from 'app/shared/services/repository.service';
+import { RepositoryService } from './../../shared/services/repository.service';
 import { Owner } from './../../_interfaces/owner.model';
 import { ErrorHandlerService } from './../../shared/services/error-handler.service';
 import { Router } from '@angular/router';
