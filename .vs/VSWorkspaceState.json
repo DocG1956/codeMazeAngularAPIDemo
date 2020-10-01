@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app\\error-pages\\not-found",
-    "\\src\\environments"
+    "\\src\\app",
+    "\\src\\app\\error-pages\\internal-server",
+    "\\src\\app\\owner",
+    "\\src\\app\\owner\\owner-details",
+    "\\src\\app\\owner\\owner-list",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\services",
+    "\\src\\app\\_interfaces"
   ],
-  "SelectedNode": "\\src\\environments\\environment.prod.ts",
+  "SelectedNode": "\\src\\app\\owner\\owner-details\\owner-details.component.html",
   "PreviewInSolutionExplorer": false
 }
