@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
-import { RepositoryService } from 'app/shared/services/repository.service';
-import { ErrorHandlerService } from 'app/shared/services/error-handler.service';
+import { RepositoryService } from 'src/app/shared/services/repository.service';
+import { ErrorHandlerService } from 'src/app/shared/services/error-handler.service';
 import { Router, ActivatedRoute } from '@angular/router';
 import { Owner } from './../../_interfaces/owner.model';
 import { DatePipe } from '@angular/common';
